@@ -1,6 +1,6 @@
 # 👋 Ankit Singh Visen
 
-## Linux & System Administrator | Network Engineer | DevOps & CyberSecurity Enthusiast
+## Linux & System Administrator | Network Engineer | CyberSecurity Enthusiast
 
 Welcome to my professional portfolio website.
 
